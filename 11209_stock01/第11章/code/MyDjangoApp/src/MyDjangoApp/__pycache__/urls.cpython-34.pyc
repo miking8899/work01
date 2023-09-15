@@ -1,0 +1,20 @@
+ï»¿îŒ
+ê Bà€€à€€ã€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€@à€€à€€à€€sî€€à€€dà€€à€€Zà€€à€€dà€€dà€€là€€mà€€Zà€€dà€€dà€€là€€mà€€Zà€€dà€€dà€€là€€mà€€Zà€€dà€€dà€€là€€mà€€Zà€€dà€€dà€€là€€m	à€€Z	à€€dà€€dà€€là€€m
+à€€Z
+à€€eà€€d	à€€eà€€jà€€jà€€ã‚€eà€€d
+à€€eà€€jà€€ã‚€eà€€dà€€e	à€€jà€€ã‚€eà€€dà€€e	à€€jà€€ã‚€eà€€dà€€e
+à€€jà€€ã‚€gà€€Zà€€dà€€S)atà€€à€€MyDjangoApp URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/2.0/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+é€€à€€à€€)Ú…admin)Ú„path)Úƒurléš¨à€€à€€)Ú„view)Ú…login)Ú‘viewForMatplotlibzadmin/zhelloworld/z^login/$z^loginAction/$z^showMatplotlibImg/$N)Ú‡__doc__Zdjango.contribrà€€à€€à€€Ú‹django.urlsrà€€à€€à€€Zdjango.conf.urlsrà€€à€€à€€Ú€rà€€à€€à€€rà€€à€€à€€rà€€à€€à€€Ú„siteÚ„urlsZmyViewZenterLoginPageZloginActionZcreateMatplotlibImgÚ‹urlpatternsé€²à€€à€€à€€rà€€à€€à€€å˜€à€€à€€D:\software\java web\æ¸…è¯å‡ºç‰ˆç¤¾\PythonWorkSpace\MyDjangoApp\src\MyDjangoApp\urls.pyÚˆ<module>à€€à€€à€€sà€€à€€à€€
